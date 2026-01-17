@@ -31,3 +31,21 @@
 • 22-Dec-2025 (Monday): Revised Java fundamentals and practiced remaining problem sets. No issues faced.
 
 • 23-Dec-2025 (Tuesday): Final revision of completed Java topics and GitHub project organization. No issues faced.
+
+• 08-Jan-2026 (Thursday): Studied Java constructors in detail, learned the difference between instance and class variables, and practiced various access modifiers with examples.
+
+• 09-Jan-2026 (Friday): Studied and practiced static and final keywords, and learned the usage of the instanceof operator with practical examples.
+
+• 10-Jan-2026 (Saturday): Studied object modeling concepts and learned how to design and interpret class diagrams for object-oriented applications.
+
+(11-Jan-2026 Sunday omitted)
+
+• 12-Jan-2026 (Monday): Studied object-oriented design principles and understood their role in building scalable and maintainable software systems.
+
+• 13-Jan-2026 (Tuesday): Practiced and solved multiple problems based on inheritance to strengthen understanding of object-oriented concepts.
+
+• 14-Jan-2026 (Wednesday): Studied encapsulation in depth and learned interfaces, abstract classes, and polymorphism with proper examples.
+
+• 15-Jan-2026 (Thursday): (PONGAL)
+
+• 16-Jan-2026 (Friday): Updated my GitHub repository by organizing project structure and pushing recent practice work.
